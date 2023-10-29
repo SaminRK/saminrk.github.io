@@ -1,0 +1,14 @@
+@article{KHAN2023105945,
+    title = {DeepBend: An interpretable model of DNA bendability},
+    journal = {iScience},
+    volume = {26},
+    number = {2},
+    pages = {105945},
+    year = {2023},
+    issn = {2589-0042},
+    doi = {https://doi.org/10.1016/j.isci.2023.105945},
+    url = {https://www.sciencedirect.com/science/article/pii/S2589004223000226},
+    author = {Samin Rahman Khan and Sadman Sakib and M. Sohel Rahman and Md. Abul Hassan Samee},
+    keywords = {Biological sciences, Biochemistry, Genetics},
+    abstract = {Summary
+    The bendability of genomic DNA impacts chromatin packaging and protein-DNA binding. However, we do not have a comprehensive understanding of the motifs influencing DNA bendability. Recent high-throughput technologies such as Loop-Seq offer an opportunity to address this gap but the lack of accurate and interpretable machine learning models still remains. Here we introduce DeepBend, a convolutional neural network model with convolutions designed to directly capture the motifs underlying DNA bendability and their periodic occurrences or relative arrangements that modulate bendability. DeepBend consistently performs on par with alternative models while giving an extra edge through mechanistic interpretations. Besides confirming the known motifs of DNA bendability, DeepBend also revealed several novel motifs and showed how the spatial patterns of motif occurrences influence bendability. DeepBend’s genome-wide prediction of bendability further showed how bendability is linked to chromatin conformation and revealed the motifs controlling the bendability of topologically associated domains and their boundaries.}}

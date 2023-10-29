@@ -1,0 +1,9 @@
+@ARTICLE{9743909,
+  author={Ali, Asad and Rahman Khan, Samin and Sakib, Sadman and Hossain, Md. Shohrab and Lin, Ying-Dar},
+  journal={IEEE Access}, 
+  title={Federated 3GPP Mobile Edge Computing Systems: A Transparent Proxy for Third Party Authentication With Application Mobility Support}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={35106-35119},
+  doi={10.1109/ACCESS.2022.3162851}}
