@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am working as a lecturer at the Institue of Information and Communication Technology (IICT) at Bangladesh University of Engineering and Technology (BUET). I am also pursuing my Master's degree from the Department of Computer Science and Education at BUET.
+I am working as a lecturer at the [Institute of Information and Communication Technology (IICT)](https://iict.buet.ac.bd/) at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/). I am also pursuing my Master's degree from the Department of Computer Science and Engineering at BUET.
 
 ## Research Interests
 
