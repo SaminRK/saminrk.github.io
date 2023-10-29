@@ -1,22 +1,19 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "DeepBend: An interpretable model of DNA bendability"
+    authors: <strong>Samin Rahman Khan</strong>, Sadman Sakib, M Sohel Rahman, Md Abul Hassan Samee
+    conference_short: iScience
+    conference: iScience, p.105945., Feb 2023.
+    pdf: https://www.cell.com/iscience/pdf/S2589-0042(23)00022-6.pdf
+    code: https://github.com/SameeLab-BCM/DeepBend
+    bibtex: https://bib.saminrk.me/KHAN2023105945.txt
+    image: ./assets/img/KHAN2023105945-graphical-abstract-low-res.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Federated 3GPP Mobile Edge Computing systems: a transparent proxy for third party authentication with application mobility support"
+    authors: Asad Ali, <strong>Samin Rahman Khan*</strong>, Sadman Sakib, Md Shohrab Hossain, Ying-Dar Lin (*Corresponding author)
+    conference_short: IEEE Access
+    conference: IEEE Access, Volume 10, p.35106-35119., Dec 2022
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743909
+    code: https://github.com/SaminRK/FAST-EF
+    bibtex: https://bib.saminrk.me/9743909.txt
+    image: ./assets/img/access-gagraphic-3162851.jpg

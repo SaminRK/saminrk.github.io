@@ -4,19 +4,27 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am working as a lecturer at the Institue of Information and Communication Technology (IICT) at Bangladesh University of Engineering and Technology (BUET). I am also pursuing my Master's degree from the Department of Computer Science and Education at BUET.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Applied Machine Learning:** in Bioinformatics and Single-Cell Genomics
+- **Edge Computing:** Federated Edge Computing
+
+## Education
+- **M.Sc. in Computer Science and Engineering**   (2022-Present)<br/>
+<em>Bangladesh University of Engineering and Technology (BUET)</em>
+
+- **B.Sc. in Computer Science and Engineering**   (2017-2022)<br/>
+<em>Bangladesh University of Engineering and Technology (BUET)</em>
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2023]** Joined IICT, BUET as a lecturer.
+- **[Jan. 2023]** Our paper about modelling DNA bendability got accepted in iScience.
+- **[Dec. 2022]** Got promoted to Software Engineer-I at Optimizely Inc..
+- **[June 2022]** Joined Optimizely Inc. as Software Engineering Intern
+- **[Mar. 2022]** Our paper on designing authentication and mobility scheme for Federated Edge Sytem got accepted in IEEE Access.
 
 {% include_relative _includes/publications.md %}
 
