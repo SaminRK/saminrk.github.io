@@ -1,5 +1,14 @@
 main:
 
+  - title: "Quantifying Pathological Progression from Single-Cell Data"
+    authors: <strong>Samin Rahman Khan</strong>, M. Sohel Rahman, Md. Abul Hassan Samee
+    conference_short: Pre-print
+    conference: bioRxiv, Dec 2024.
+    pdf: https://www.biorxiv.org/content/10.1101/2024.11.27.625593v1.full.pdf
+    code: https://github.com/SaminRK/scPSS
+    bibtex: ./assets/bibtex/quantifying-pathological-progression-from-single-cell-data
+    image: ./assets/img/scpss-overview.png
+
   - title: "DeepBend: An interpretable model of DNA bendability"
     authors: <strong>Samin Rahman Khan</strong>, Sadman Sakib, M Sohel Rahman, Md Abul Hassan Samee
     conference_short: iScience
