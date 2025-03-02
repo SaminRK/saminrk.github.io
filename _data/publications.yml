@@ -4,7 +4,7 @@ main:
     authors: <strong>Samin Rahman Khan</strong>, M. Sohel Rahman, Md. Abul Hassan Samee
     conference_short: Pre-print
     conference: bioRxiv, Dec 2024.
-    pdf: https://www.biorxiv.org/content/10.1101/2024.11.27.625593v1.full.pdf
+    pdf: https://www.biorxiv.org/content/10.1101/2024.11.27.625593v2.full.pdf
     code: https://github.com/SaminRK/scPSS
     bibtex: ./assets/bibtex/quantifying-pathological-progression-from-single-cell-data.bib
     image: ./assets/img/scpss-overview.png
